@@ -9,19 +9,15 @@ structure, CTA policy, follow-up logic, and prelaunch QA gates.
 
 | File | What it does |
 |------|-------------|
-| .agents/skills/SKILL.md | Orchestrator and routing logic |
-| .agents/skills/copy-atl-executive-messaging.md | Strategic messaging targeting the C-Suite and VPs (Above the Line). |
-| .agents/skills/copy-btl-practitioner-messaging.md | Tactical messaging targeting managers and practitioners (Below the Line). |
-| .agents/skills/copy-segmentation-system.md | How to split outbound lists into executable copy segments. |
-| .agents/skills/copy-message-architecture.md | Building first-touch emails with a constrained 4-block structure. |
-| .agents/skills/copy-subject-opener-engine.md | Generating subject and opener variants with anti-spam controls. |
-| .agents/skills/copy-cta-friction-design.md | Selecting CTA style by touch stage and buyer readiness. |
-| .agents/skills/copy-follow-up-sequence.md | Designing touches 2-5 with new value and close logic. |
-| .agents/skills/copy-quality-compliance-review.md | Quality, deliverability, and compliance checks before launch. |
-| esources/templates/email-template-library.md | Proven B2B cold email templates and sequencing frameworks. |
-| esources/references/writing-frameworks.md | Core copywriting principles (AIDA, PAS, BAB) adapted for cold outbound. |
-| esources/benchmarks/email-benchmarks.md | Expected open, reply, and conversion rates by industry and sequence type. |
-| ECOSYSTEM.md | Cross-repo connectivity map |
+| `.agents/skills/SKILL.md` | Orchestrator and routing logic |
+| `.agents/skills/copy-atl-executive-messaging.md` | Strategic messaging targeting the C-Suite and VPs (Above the Line). |
+| `.agents/skills/copy-btl-practitioner-messaging.md` | Tactical messaging targeting managers and practitioners (Below the Line). |
+| `.agents/skills/copy-segmentation-system.md` | How to split outbound lists into executable copy segments. |
+| `.agents/skills/copy-message-architecture.md` | Building first-touch emails with a constrained 4-block structure. |
+| `.agents/skills/copy-subject-opener-engine.md` | Generating subject and opener variants with anti-spam controls. |
+| `.agents/skills/copy-cta-friction-design.md` | Selecting CTA style by touch stage and buyer readiness. |
+| `.agents/skills/copy-follow-up-sequence.md` | Designing touches 2-5 with new value and close logic. |
+| `.agents/skills/copy-quality-compliance-review.md` | Quality, deliverability, and compliance checks before launch. |
 
 ## Prerequisites
 
@@ -87,5 +83,6 @@ If this saves you time, star the repo and follow
 [Forma Nôrden on LinkedIn](https://www.linkedin.com/company/formanorden/).
 
 Built by [Forma Nôrden](https://formanorden.com/) - GTM engineering for B2B companies.
+
 
 
